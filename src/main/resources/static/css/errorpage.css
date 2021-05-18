@@ -1,0 +1,59 @@
+/*---------------------------
+    ERROR PAGE STYLES
+----------------------------*/
+.container {
+    text-align: center;
+}
+.error-page {
+    background: #6bc5a4;
+}
+
+.error-wrapper {
+    margin-top: 15%;
+}
+
+.error-wrapper h2 {
+    font-size: 64px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.error-wrapper h3 {
+    font-size: 32px;
+    color: #474747;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 30px;
+    margin-top: 0;
+}
+
+.error-wrapper .nrml-txt {
+    font-size: 18px;
+    color: #474747;
+    font-weight: normal;
+    line-height: 30px;
+}
+
+.error-wrapper .nrml-txt a {
+    color: #a7ffdf;
+}
+
+.error-wrapper .back-btn {
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 15px 30px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-top: 50px;
+
+}
+
+.error-wrapper .back-btn:hover {
+    background: #fff;
+    color: #6bc5a4;
+    border-color: #fff;
+}
